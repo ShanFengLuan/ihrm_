@@ -6,4 +6,6 @@ public class GitDemo {
     private String pwd;
     private String address;
     private String adverts;
+    private String adver;
+
 }
