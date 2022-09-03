@@ -5,4 +5,5 @@ public class GitDemo {
     private String name;
     private String pwd;
     private String address;
+    private String adverts;
 }
