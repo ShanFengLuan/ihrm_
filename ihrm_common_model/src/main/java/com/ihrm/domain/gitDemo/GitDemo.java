@@ -7,4 +7,6 @@ public class GitDemo {
     private String address;
     private String adverts;
     private String art;
+    private String adver;
+
 }
